@@ -1,7 +1,8 @@
-$ composer dump-autoload
-$ npm i && npm run dev
+$ composer dump-autoload \n
+$ npm i && npm run dev \n
 
 
-to see the auth route names duplication run:
+to see the auth route names duplication run: \n
+
    $ php artisan optimize
    
